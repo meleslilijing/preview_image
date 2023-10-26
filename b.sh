@@ -1,2 +1,2 @@
-cd ./backend && make run 
+cd ./server && make run 
 wait
