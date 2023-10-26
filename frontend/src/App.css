@@ -1,0 +1,28 @@
+.App {
+  
+}
+
+.line {
+  margin-bottom: 12px;
+}
+
+.preview-canvas {
+  position: relative;
+  overflow: hidden;
+  border-radius: 8px;
+}
+
+.preview-layer {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.image-layer {
+  background-color: #eee;
+  z-index: 1;
+}
+.mask-layer {
+  z-index: 2;
+}
+
