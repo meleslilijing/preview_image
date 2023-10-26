@@ -1,11 +1,12 @@
 # 运行步骤
 
 1. 把整个文件夹放入go的项目路径。也就是`$GOPATH/src`. 如
+```
 > echo $GOPATH
 /Users/username/work/go
 > pwd
 /Users/username/work/go/src/preview_image
-
+```
 ## 自动运行
 
 1. 在项目的根目录下执行 ./run.sh
